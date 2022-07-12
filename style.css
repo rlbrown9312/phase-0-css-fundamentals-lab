@@ -3,3 +3,10 @@ body {
   height: 100%;
   margin: 0;
 }
+
+a {
+  padding-left: 10px;
+  padding-right: 10px;
+  background-color: rgb(255, 119, 0);
+  
+}
